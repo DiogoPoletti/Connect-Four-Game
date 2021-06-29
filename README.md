@@ -16,7 +16,7 @@ Creating this game enabled me to practice a few aspects:
 * Strenghten knowledge in jQuery.
 
 ## Code highlight
-In order to check diagonally, this block of code was needed as previously the only way to check if there was a winner was by using vertical column checker or horizotal row checker.
+In order to check diagonally, this block of code was needed - as previously checking if there was a winner, vertical column checker or horizontal row checker was used.
 This implementation had major impact of how the game operates enabling a new win condition.
 
 ```
